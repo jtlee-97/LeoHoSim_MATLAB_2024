@@ -167,6 +167,16 @@ disp(['Ping-Pong Rate: ', num2str(final_results.final_avg_HOPP)]);
 └── README.md
 ```
 
+### 🚀 Quick Start
+1) Configure Parameters
+Open the system_parameter.m file to review and modify key simulation variables, such as satellite altitude, number of satellites, and number of UEs.
+
+2) Review the Process (Optional)
+You can inspect the overall simulation procedure and detailed logic in the system_process.m file.
+
+3) Run the Simulation
+In MATLAB, open the system_start.m file and press the Run button, or type system_start in the command window to begin the simulation.
+
 -----
 
 ## 🤝 Contributing & Contact
