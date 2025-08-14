@@ -200,17 +200,18 @@ This project is fundamentally licensed under the permissive terms of the MIT Lic
 
 ### 1. General Use (Based on MIT License)
 
-You are free to use, copy, modify, merge, publish, and distribute this software for personal study, learning, or non-commercial testing, under the condition that the original copyright and permission notices are included in all copies of the software.
+This software may be freely used, copied, modified, and forked for personal learning, study, or non-commercial testing purposes under the MIT License. All copies of the software must include the original copyright and permission notices.
 
 ### 2. Use for Academic Projects or Publications
 
 If you intend to use this simulator or its components for specific purposes that will result in a formal output, such as a **research project, thesis/dissertation, or an academic publication**, the following additional conditions apply:
 
-1.  **Prior Contact is Required:** You **must** contact the maintainer, Jongtae Lee, via email at [jtlee830@ajou.ac.kr](mailto:jtlee830@ajou.ac.kr) to notify and discuss the intended use *before* integrating this work into your project.
+1.  **Prior Contact is Required**: You **must** contact the maintainer, Jongtae Lee, via email at  at [jtlee830@ajou.ac.kr](mailto:jtlee830@ajou.ac.kr) (or [2jongtae@gmail.com](mailto:2jongtae@gmail.com)) to notify and discuss your intended use if you plan to fork this work to start a new project or request a dedicated branch.
 
 2.  **Agreement on Acknowledgment:** For any resulting publications or formal works, appropriate credit, citation, or **co-authorship** must be discussed and mutually agreed upon to properly reflect the contribution of this work.
 
 <!-- end list -->
 
-```
+---
+*© LeoHoSim_MATLAB_2024 (Jongtae Lee, @jtlee-97) — All Rights Reserved.*
 ```
