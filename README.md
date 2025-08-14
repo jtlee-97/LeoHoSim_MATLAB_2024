@@ -214,4 +214,3 @@ If you intend to use this simulator or its components for specific purposes that
 
 ---
 *© LeoHoSim_MATLAB_2024 (Jongtae Lee, @jtlee-97) — All Rights Reserved.*
-* 2025.08.14., Published*
