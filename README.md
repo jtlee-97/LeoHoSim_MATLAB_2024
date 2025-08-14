@@ -2,7 +2,6 @@
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2024a%2B-orange)
 ![License](https://img.shields.io/badge/License-Custom-red.svg)
-![3GPP](https://img.shields.io/badge/3GPP-TR%2038.821;38.811;etc-brightgreen)
 
 A comprehensive MATLAB-based simulation platform for evaluating and optimizing handover algorithms in 5G Non-Terrestrial Networks (NTN) with Low Earth Orbit (LEO) satellite constellations.
 
