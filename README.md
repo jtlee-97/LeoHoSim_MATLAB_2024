@@ -186,14 +186,20 @@ Ajou University, Suwon, Republic of Korea
     2.  **Personal CV:** [https://sites.google.com/view/jongtaelee-cv/introduce](https://sites.google.com/view/jongtaelee-cv/introduce)
 
 ## 📜 License & Usage Policy
-This work is provided under a custom usage policy.
 
-  * **Personal and Academic Use:** You are free to use, modify, and distribute this software for personal study and non-commercial research purposes.
+This project is fundamentally licensed under the permissive terms of the MIT License (included below), but with an additional usage policy for specific academic and research purposes.
 
-  * **Use for Projects or Publications:** If you intend to use this simulator or its components for specific purposes such as a research project, thesis/dissertation, or an academic publication, you **must**:
+### 1. General Use (Based on MIT License)
 
-    1.  Contact the maintainer, Jongtae Lee, via email ([jtlee830@ajou.ac.kr](mailto:jtlee830@ajou.ac.kr)) to discuss the intended use prior to starting your work.
-    2.  For any resulting publications, appropriate credit, citation, or co-authorship must be provided as agreed upon.
+You are free to use, copy, modify, merge, publish, and distribute this software for personal study, learning, or non-commercial testing, under the condition that the original copyright and permission notices are included in all copies of the software.
+
+### 2. Use for Academic Projects or Publications
+
+If you intend to use this simulator or its components for specific purposes that will result in a formal output, such as a **research project, thesis/dissertation, or an academic publication**, the following additional conditions apply:
+
+1.  **Prior Contact is Required:** You **must** contact the maintainer, Jongtae Lee, via email at [jtlee830@ajou.ac.kr](mailto:jtlee830@ajou.ac.kr) to notify and discuss the intended use *before* integrating this work into your project.
+
+2.  **Agreement on Acknowledgment:** For any resulting publications or formal works, appropriate credit, citation, or **co-authorship** must be discussed and mutually agreed upon to properly reflect the contribution of this work.
 
 <!-- end list -->
 
