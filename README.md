@@ -7,7 +7,7 @@ A comprehensive MATLAB-based simulation platform for evaluating and optimizing h
 
 ## 🚀 Overview
 
-This project provides a time-step based simulator designed to model 5G NTN scenarios with a focus on **handover optimization**. It implements a LEO satellite constellation at a 600 km altitude with Earth-moving cell scenarios, following the specifications outlined in 3GPP TR 38.821.
+This project provides a time-step based simulator designed to model 5G NTN scenarios with a focus on **handover optimization**. It implements a LEO satellite constellation at a 600 km altitude with Earth-moving cell scenarios, following the specifications outlined in 3GPP TR 38.821 (System-level Simulation Study Case 9).
 
 The core purpose of this platform is to evaluate hybrid handover mechanisms that combine signal strength measurements (A3-based), distance calculations (D2-based), and temporal parameters to enhance handover performance, reliability, and efficiency in dynamic satellite networks.
 
